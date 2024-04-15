@@ -1,2 +1,3 @@
-tree:
-  pkg.installed
+install_tree:
+  pkg.installed:
+    - name: tree
